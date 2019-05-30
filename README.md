@@ -1,5 +1,5 @@
 # IO-Java-Utils
-## v1.1.0
+## v1.1.1
 IO is a wrapper static class for all Input/Output operations
 that allow you to get or print data to console quickly, without
 handle exception.
