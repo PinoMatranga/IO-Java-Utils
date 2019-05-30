@@ -9,3 +9,4 @@ email, or any other method with the owners of this repository before making a ch
 2. Update the README.md with details of requirements.
 3. Increase the version numbers in any Java files and the README.md to the new version that this
    Pull Request would represent.
+4. Update CHANGELOG.md

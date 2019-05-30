@@ -25,7 +25,7 @@ import java.io.IOException;
  * <p>
  *
  * @author      Pino mastrobirraio Matranga
- * @version     1.1.0
+ * @version     %I%, %G%
  * @since       1.0.0
  */
 
@@ -138,7 +138,6 @@ public class IO {
      *                  <code>null</code> if the operation throws exceptions
      * @see             InputStreamReader
      * @see             BufferedReader#readLine()
-     * @exception       IOException
      * if the input isn't allow by BufferedReader
      * @since           1.0.0
      */
@@ -176,7 +175,6 @@ public class IO {
      *                  <code>0</code> if the operation throws exceptions
      * @see             InputStreamReader
      * @see             BufferedReader#readLine()
-     * @exception       IOException
      * if the input isn't allow by BufferedReader
      * @since           1.0.0
      */
@@ -214,7 +212,6 @@ public class IO {
      *                  <code>0</code> if the operation throws exceptions
      * @see             InputStreamReader
      * @see             BufferedReader#readLine()
-     * @exception       IOException
      * if the input isn't allow by BufferedReader
      * @since           1.0.0
      */
@@ -252,7 +249,6 @@ public class IO {
      *                  <code>0</code> if the operation throws exceptions
      * @see             InputStreamReader
      * @see             BufferedReader#readLine()
-     * @exception       IOException
      * if the input isn't allow by BufferedReader
      * @since           1.0.0
      */
@@ -290,7 +286,6 @@ public class IO {
      *                  <code>null</code> if the operation throws exceptions
      * @see             Console
      * @see             System#console()
-     * @exception       Exception
      * If no console is detected
      * @throws          NullPointerException
      * if the user doesn't insert anything
